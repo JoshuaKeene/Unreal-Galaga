@@ -1,0 +1,1107 @@
+﻿Log file open, 03/26/19 15:08:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ScriptingLabs
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1319960372) SRandInit(1319960372).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.681699
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.734s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am W74390 (10.50.50.119:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.032s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.26-15.08.33:558][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-15.08.33:558][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.26-15.08.33:684][  0]LogInit: Computer: W74390
+[2019.03.26-15.08.33:684][  0]LogInit: User: 4keenj11
+[2019.03.26-15.08.33:684][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.26-15.08.33:684][  0]LogInit: High frequency timer resolution =2.742197 MHz
+[2019.03.26-15.08.33:685][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.26-15.08.33:685][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.26-15.08.33:685][  0]LogMemory: Process Physical Memory: 273.72 MB used, 273.72 MB peak
+[2019.03.26-15.08.33:685][  0]LogMemory: Process Virtual Memory: 270.70 MB used, 270.70 MB peak
+[2019.03.26-15.08.33:685][  0]LogMemory: Physical Memory: 5477.33 MB used,  10756.99 MB free, 16234.32 MB total
+[2019.03.26-15.08.33:685][  0]LogMemory: Virtual Memory: 696.78 MB used,  10756.99 MB free, 134217728.00 MB total
+[2019.03.26-15.08.33:725][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.26-15.08.33:725][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.26-15.08.33:731][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.26-15.08.34:076][  0]LogStreaming: Display: Took  0.351s to EndInitTextLocalization.
+[2019.03.26-15.08.34:076][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.26-15.08.34:140][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.26-15.08.34:140][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.26-15.08.34:431][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.26-15.08.34:495][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.03.26-15.08.34:495][  0]LogD3D11RHI:       6061/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.26-15.08.34:513][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.03.26-15.08.34:513][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.26-15.08.34:518][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.26-15.08.34:518][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.26-15.08.34:518][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.26-15.08.34:523][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.26-15.08.34:523][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.26-15.08.34:524][  0]LogWindows: EnumDisplayDevices:
+[2019.03.26-15.08.34:524][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.03.26-15.08.34:524][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.03.26-15.08.34:524][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.03.26-15.08.34:524][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.03.26-15.08.34:524][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.26-15.08.34:525][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.26-15.08.34:525][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.26-15.08.34:525][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.03.26-15.08.34:525][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.26-15.08.34:525][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.26-15.08.34:525][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.03.26-15.08.34:556][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2019.03.26-15.08.34:556][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.26-15.08.34:556][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.26-15.08.34:570][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.26-15.08.34:573][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (U:/Unreal Galaga/ScriptingLabs/Intermediate/Shaders/WorkingDirectory/9124/).
+[2019.03.26-15.08.34:574][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/4keenj11/AppData/Local/Temp/UnrealShaderWorkingDir/1BF8B2A341F16F9BB115038D1E2C57A9/'.
+[2019.03.26-15.08.34:766][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.26-15.08.34:806][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.26-15.08.34:848][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.26-15.08.34:890][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.26-15.08.34:921][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.26-15.08.34:962][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.26-15.08.34:989][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.26-15.08.35:026][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.26-15.08.35:041][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.26-15.08.35:066][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.26-15.08.35:097][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.26-15.08.35:122][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.26-15.08.35:147][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.03.26-15.08.35:188][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.26-15.08.35:219][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.26-15.08.35:272][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.26-15.08.35:272][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.26-15.08.35:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-15.08.35:305][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.26-15.08.35:356][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.26-15.08.35:383][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.26-15.08.35:407][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.26-15.08.35:431][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.26-15.08.35:456][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.26-15.08.35:483][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.26-15.08.35:483][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.26-15.08.35:614][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.26-15.08.35:614][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.26-15.08.35:614][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.26-15.08.36:379][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.26-15.08.36:440][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/4keenj11/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.26-15.08.36:440][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/4keenj11/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.03.26-15.08.36:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file U:/Unreal Galaga/ScriptingLabs/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.26-15.08.36:441][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.26-15.08.36:443][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file U:/Unreal Galaga/ScriptingLabs/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.26-15.08.36:443][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.26-15.08.36:455][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.26-15.08.36:468][  0]LogDerivedDataCache: Using Local data cache path C:/Users/4keenj11/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.26-15.08.36:468][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.26-15.08.36:468][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.26-15.08.36:477][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.26-15.08.36:477][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.26-15.08.36:478][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.26-15.08.36:478][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.26-15.08.36:692][  0]LogAssetRegistry: FAssetRegistry took 0.0892 seconds to start up
+[2019.03.26-15.08.38:433][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-15.08.38:603][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.26-15.08.38:606][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.26-15.08.38:606][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.26-15.08.38:606][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.26-15.08.38:606][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.26-15.08.38:606][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.26-15.08.38:648][  0]LogNetVersion: ScriptingLabs , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2557807056)
+[2019.03.26-15.08.41:394][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 2.173458 seconds
+[2019.03.26-15.08.41:412][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.03.26-15.08.41:412][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.03.26-15.08.41:412][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.26-15.08.43:441][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.26-15.08.43:503][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.26-15.08.43:503][  0]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.44:086][  0]SourceControl: Source control is disabled
+[2019.03.26-15.08.44:086][  0]SourceControl: Source control is disabled
+[2019.03.26-15.08.44:133][  0]SourceControl: Source control is disabled
+[2019.03.26-15.08.44:161][  0]SourceControl: Source control is disabled
+[2019.03.26-15.08.45:182][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.26-15.08.45:450][  0]LogOcInput: OculusInput pre-init called
+[2019.03.26-15.08.45:603][  0]LogEngine: Initializing Engine...
+[2019.03.26-15.08.45:605][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.26-15.08.45:618][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-15.08.45:618][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-15.08.45:845][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.26-15.08.45:855][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-15.08.45:900][  0]LogInit: FAudioDevice initialized.
+[2019.03.26-15.08.45:989][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/4keenj11/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.26-15.08.46:001][  0]LogInit: Texture streaming: Enabled
+[2019.03.26-15.08.46:018][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.26-15.08.46:033][  0]LogInit: Transaction tracking system initialized
+[2019.03.26-15.08.46:055][  0]BlueprintLog: New page: Editor Load
+[2019.03.26-15.08.46:240][  0]LocalizationService: Localization service is disabled
+[2019.03.26-15.08.46:446][  0]LogConsoleResponse: Display: 
+[2019.03.26-15.08.46:667][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.26-15.08.46:667][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.26-15.08.46:667][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.26-15.08.46:667][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-15.08.46:667][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-15.08.47:135][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Galaga/ScriptingLabs/Content/' took 0.09s
+[2019.03.26-15.08.47:262][  0]SourceControl: Source control is disabled
+[2019.03.26-15.08.47:262][  0]Cmd: MAP LOAD FILE="U:/Unreal Galaga/ScriptingLabs/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.26-15.08.47:435][  0]LightingResults: New page: Lighting Build
+[2019.03.26-15.08.47:442][  0]MapCheck: New page: Map Check
+[2019.03.26-15.08.47:442][  0]LightingResults: New page: Lighting Build
+[2019.03.26-15.08.48:689][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c760f2f078, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.08.48:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c75d1b1d00, Size=848, Default__BP_Player_C Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2019.03.26-15.08.48:746][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c76042e368, Size=36, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2019.03.26-15.08.48:818][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c76042e368, Size=36
+[2019.03.26-15.08.48:818][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c76042e368, Size=36, Default__BP_ProjectilePlayerBase_C Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_3:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2019.03.26-15.08.48:819][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c75d1b1d00, Size=848
+[2019.03.26-15.08.48:819][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c77b9ba080, Size=848, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_4:ExecuteUbergraph_BP_Player
+[2019.03.26-15.08.48:819][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c760f2f078, Size=8
+[2019.03.26-15.08.48:819][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c760f2f078, Size=8, Default__BP_GameMode_C Function /Engine/Transient.REINST_BP_GameMode_C_5:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.08.48:827][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c76042e1b0, Size=36, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2019.03.26-15.08.48:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c701ea2b00, Size=848, Default__BP_Player_C Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2019.03.26-15.08.48:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c760f2e2b0, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.08.48:845][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c701e97740, Size=432, Default__BP_EnemyBase_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.08.48:849][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c701e97740, Size=432
+[2019.03.26-15.08.48:849][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c701e97740, Size=432, Default__BP_EnemyBase_C Function /Engine/Transient.REINST_BP_EnemyBase_C_9:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.08.48:852][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c701e950c0, Size=432, Default__BP_EnemyBase_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.08.48:898][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c701e94480, Size=432, Default__BP_Enemy_1_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.08.48:904][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c701e94480, Size=432
+[2019.03.26-15.08.48:905][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c70122fac0, Size=432, Default__BP_Enemy_1_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.08.48:905][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c70122f740, Size=432, Default__BP_Enemy_1_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.08.50:345][  0]LogTexture: Display: Building textures: rocket (AutoDXT, 4X16)
+[2019.03.26-15.08.50:345][  0]LogTexture: Display: Building textures: badship2 (AutoDXT, 32X32)
+[2019.03.26-15.08.50:345][  0]LogTexture: Display: Building textures: space (AutoDXT, 1920X1080)
+[2019.03.26-15.08.50:348][  0]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.08.50:399][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.08.50:399][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.08.50:399][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.08.50:455][  0]LogAIModule: Creating AISystem for world Main
+[2019.03.26-15.08.50:462][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.26-15.08.50:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c760f2f078, Size=8
+[2019.03.26-15.08.50:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c77b9ba080, Size=848
+[2019.03.26-15.08.50:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c76042e368, Size=36
+[2019.03.26-15.08.50:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c701e97740, Size=432
+[2019.03.26-15.08.50:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c70122fac0, Size=432
+[2019.03.26-15.08.50:477][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.26-15.08.50:907][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 429.866ms to complete.
+[2019.03.26-15.08.50:907][  0]LogFileHelpers: Loading map 'Main' took 3.645
+[2019.03.26-15.08.51:103][  0]LogCollectionManager: Loaded 0 collections in 0.003513 seconds
+[2019.03.26-15.08.51:166][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Galaga/ScriptingLabs/Saved/Collections/' took 0.01s
+[2019.03.26-15.08.51:167][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Galaga/ScriptingLabs/Content/Developers/4keenj11/Collections/' took 0.01s
+[2019.03.26-15.08.51:167][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Galaga/ScriptingLabs/Content/Collections/' took 0.01s
+[2019.03.26-15.08.51:167][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.26-15.08.51:178][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2452 classes and 558 folders.
+[2019.03.26-15.08.51:189][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.26-15.08.51:311][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.26-15.08.51:324][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.03.26-15.08.52:996][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.03.26-15.08.53:017][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ScriptingLabs
+[2019.03.26-15.08.53:017][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.03.26-15.08.53:017][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2019.03.26-15.08.53:017][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.03.26-15.08.53:017][  0]LogTemp: BranchPath = W74390/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = W74390/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2019.03.26-15.08.53:017][  0]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.26-15.08.53:020][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.26-15.08.53:029][  0]LogSlate: Took 0.001714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.26-15.08.53:160][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\4keenj11\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.26-15.08.53:160][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.03.26-15.08.53:280][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.26-15.08.53:280][  0]LogLoad: (Engine Initialization) Total time: 28.17 seconds
+[2019.03.26-15.08.53:280][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.26-15.08.53:290][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.26-15.08.53:315][  0]LogAssetRegistry: Asset discovery search completed in 16.6469 seconds
+[2019.03.26-15.08.53:317][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.26-15.08.53:317][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.03.26-15.08.53:317][  0]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.53:318][  0]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/', and we were unable to create a new request.
+[2019.03.26-15.08.53:318][  0]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.53:318][  0]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/Developers/4keenj11/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.53:318][  0]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.53:322][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.26-15.08.53:388][  0]LogSlate: Took 0.001774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-15.08.53:742][  1]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.53:743][  1]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/Collections/', and we were unable to create a new request.
+[2019.03.26-15.08.53:743][  1]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/Developers/4keenj11/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.53:744][  1]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Content/Developers/4keenj11/Collections/', and we were unable to create a new request.
+[2019.03.26-15.08.53:744][  1]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.03.26-15.08.53:745][  1]LogDirectoryWatcher: A directory notification failed for 'U:/Unreal Galaga/ScriptingLabs/Saved/Collections/', and we were unable to create a new request.
+[2019.03.26-15.09.58:392][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.10.01:084][  8]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-15.10.01:096][  8]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.10.01:557][  8]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.10.01:566][  8]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.10.01:585][  8]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.10.01:585][  8]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.10.01:597][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.26-15.10.01:600][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2019.03.26-15.10.01:608][  8]LogSlate: Took 0.001378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.26-15.10.02:094][ 49]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.26-15.10.02:100][ 50]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.26-15.10.02:234][ 66]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.10.02:259][ 69]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.10.02:358][ 81]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.10.02:383][ 84]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.10.02:476][ 95]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.10.02:655][116]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.10.02:768][129]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.10.02:806][134]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.10.03:047][163]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.10.03:089][168]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.10.03:190][180]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.10.03:308][194]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.10.03:459][212]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.10.03:477][214]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.26-15.10.03:478][214]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.10.03:479][214]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.10.03:479][214]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.10.03:479][214]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.26-15.10.03:624][232]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.10.03:658][236]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.11.12:369][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.11.13:821][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.11.13:930][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-15.11.13:940][650]PIE: New page: PIE session: Main (26 Mar 2019 15:11:13)
+[2019.03.26-15.11.13:941][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2019.03.26-15.11.13:947][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005473s)
+[2019.03.26-15.11.13:948][650]LogAIModule: Creating AISystem for world Main
+[2019.03.26-15.11.13:949][650]LogPlayLevel: PIE: World Init took: (0.001999s)
+[2019.03.26-15.11.13:949][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.007974s)
+[2019.03.26-15.11.13:967][650]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-15.11.13:982][650]LogInit: FAudioDevice initialized.
+[2019.03.26-15.11.14:026][650]LogLoad: Game class is 'BP_GameMode_C'
+[2019.03.26-15.11.14:029][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.03.26-15.11.14
+[2019.03.26-15.11.14:029][650]LogWorld: Bringing up level for play took: 0.000696
+[2019.03.26-15.11.14:036][650]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.03.26-15.11.14:038][650]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.075
+[2019.03.26-15.12.05:942][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.26-15.12.23:422][  9]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.12.23:429][  9]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.26-15.12.23:436][  9]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.12.23:436][  9]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.12.23:438][  9]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.26-15.12.23:473][  9]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.12.23:474][  9]LogMaterial: Warning: /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.12.23:474][  9]LogMaterial: 	Function WorldAlignedTexture: Cannot cast from float3 to texture2D.
+[2019.03.26-15.12.23:505][  9]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.26-15.12.23:509][  9]MaterialEditorStats: Error: [SM5] Function WorldAlignedTexture: Cannot cast from float3 to texture2D.
+[2019.03.26-15.12.23:935][ 57]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.12.23:952][ 59]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.12.28:550][609]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2019.03.26-15.12.28:558][610]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.12.31:812][999]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.12.31:817][999]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (1 / 1)
+[2019.03.26-15.12.31:854][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.12.31:854][  0]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.12.31:984][ 16]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.12.32:001][ 18]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.12.32:134][ 34]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.12.32:142][ 35]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.12.32:269][ 50]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.12.32:276][ 51]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.12.32:387][ 64]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.12.32:511][ 79]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.12.32:644][ 95]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.12.32:661][ 97]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.12.32:911][127]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.12.32:944][131]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.26-15.12.33:054][144]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.12.33:165][157]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.12.33:326][176]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.03.26-15.12.33:326][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.03.26-15.12.33:326][176]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.03.26-15.12.33:326][176]MaterialEditorStats: Texture samplers: 2/16
+[2019.03.26-15.12.34:736][344]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.12.34:754][344]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.12.34:754][344]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.12.34:754][344]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.26-15.12.34:922][359]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.12.34:930][361]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.12.35:077][378]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.12.35:085][379]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.12.35:213][394]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.12.35:220][395]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.12.35:339][409]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.12.35:488][427]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.12.35:612][442]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.12.35:645][446]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.12.35:895][476]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.12.35:937][481]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.12.36:048][494]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.12.36:172][509]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.26-15.12.36:296][524]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.12.36:333][528]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.12.36:334][528]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.03.26-15.12.36:334][528]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.03.26-15.12.36:334][528]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.03.26-15.12.36:334][528]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.26-15.12.36:334][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.26-15.12.49:115][ 59]LogMaterialEditor: Saving and Compiling material M_Space
+[2019.03.26-15.12.49:678][ 59]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.12.49:702][ 59]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.12.49:702][ 59]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.12.49:722][ 59]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.12.49:791][ 59]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.12.49:813][ 59]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Space, compiling. 
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.12.51:063][ 59]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.12.51:065][ 59]TextureStreamingBuild: Display: Compiling optional shaders took 1.256 seconds.
+[2019.03.26-15.12.52:692][ 59]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.12.52:724][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Space" FILE="U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset" SILENT=true
+[2019.03.26-15.12.53:109][ 59]LogSavePackage: Save=273.16ms
+[2019.03.26-15.12.53:110][ 59]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/M_Space84C0417744D88BA511E4B6B2CE4AB254.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset'
+[2019.03.26-15.12.53:236][ 59]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset
+[2019.03.26-15.12.53:254][ 59]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.03.26-15.12.53:254][ 59]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.03.26-15.12.53:255][ 59]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.03.26-15.12.53:255][ 59]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.26-15.12.53:255][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.26-15.13.04:365][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.13.05:698][514]Cmd: TRANSACTION UNDO
+[2019.03.26-15.13.05:698][514]LogEditorTransaction: Undo Move Node
+[2019.03.26-15.13.05:712][514]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.05:723][514]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.05:723][514]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.13.05:895][530]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.13.05:902][530]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.13.06:044][545]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.13.06:062][547]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.13.06:173][559]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.13.06:197][563]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.13.06:307][576]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.13.06:342][580]Cmd: TRANSACTION UNDO
+[2019.03.26-15.13.06:342][580]LogEditorTransaction: Undo Move Node
+[2019.03.26-15.13.06:345][580]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.06:445][590]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.06:562][604]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.13.06:611][610]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.13.06:720][623]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.13.06:770][629]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.13.06:847][638]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.13.06:864][640]Cmd: TRANSACTION UNDO
+[2019.03.26-15.13.06:865][640]LogEditorTransaction: Undo Create Pin Link
+[2019.03.26-15.13.06:867][640]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.06:874][640]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.06:887][640]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.26-15.13.06:901][640]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.26-15.13.06:963][644]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.26-15.13.07:055][655]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.07:112][662]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.13.07:195][672]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.13.07:237][677]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.13.07:314][686]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.13.07:332][688]Cmd: TRANSACTION UNDO
+[2019.03.26-15.13.07:332][688]LogEditorTransaction: Undo Material Editor: Delete
+[2019.03.26-15.13.07:334][688]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.07:335][688]LogMaterial: Warning: /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.13.07:335][688]LogMaterial: 	Function WorldAlignedTexture: Cannot cast from float3 to texture2D.
+[2019.03.26-15.13.07:337][688]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.07:338][688]LogMaterial: Warning: /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.26-15.13.07:338][688]LogMaterial: 	Function WorldAlignedTexture: Cannot cast from float3 to texture2D.
+[2019.03.26-15.13.07:340][688]MaterialEditorStats: Error: [SM5] Function WorldAlignedTexture: Cannot cast from float3 to texture2D.
+[2019.03.26-15.13.07:364][688]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.13.07:434][697]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.13.08:876][869]Cmd: TRANSACTION UNDO
+[2019.03.26-15.13.08:876][869]LogEditorTransaction: Undo Material Editor: Convert to Texture
+[2019.03.26-15.13.08:878][869]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.08:885][869]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.08:907][869]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.08:907][869]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.13.08:919][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2019.03.26-15.13.09:081][886]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.09:081][886]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.13.09:207][901]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.13.09:249][906]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.13.09:333][916]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.13.09:366][920]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.13.09:459][931]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.13.09:641][953]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.13.09:734][964]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.13.09:791][971]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.13.10:025][999]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.13.10:092][  7]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.13.10:176][ 17]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.13.10:336][ 36]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.26-15.13.10:453][ 50]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.13.10:506][ 56]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.13.10:507][ 56]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.13.10:507][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.13.10:507][ 56]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.13.10:507][ 56]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.26-15.13.23:490][613]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.23:499][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.26-15.13.23:512][613]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.26-15.13.23:512][613]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.26-15.13.23:525][613]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.23:691][633]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.26-15.13.23:691][633]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.26-15.13.23:836][650]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.23:883][656]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.13.24:000][670]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.13.24:050][676]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.13.24:159][689]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.13.24:166][690]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.13.24:275][703]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.13.24:283][704]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.13.24:385][716]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.13.24:543][735]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.13.24:658][749]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.13.24:691][753]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.13.24:942][783]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.13.24:983][788]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.26-15.13.25:093][801]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.13.25:226][817]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.13.25:380][835]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.13.25:380][835]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.13.25:380][835]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.13.25:380][835]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.26-15.13.27:474][ 86]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.27:486][ 87]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.27:486][ 87]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.13.27:561][ 96]LogMaterialEditor: Saving and Compiling material M_Space
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.13.28:164][ 96]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.13.28:176][ 96]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.28:197][ 96]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.13.28:214][ 96]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.28:228][ 96]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.13.28:245][ 96]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.26-15.13.28:249][ 96]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Space, compiling. 
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.26-15.13.29:634][ 96]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.26-15.13.29:635][ 96]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.26-15.13.29:635][ 96]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.26-15.13.29:635][ 96]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.13.29:635][ 96]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.13.29:636][ 96]TextureStreamingBuild: Display: Compiling optional shaders took 1.391 seconds.
+[2019.03.26-15.13.31:296][ 96]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.13.31:327][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Space" FILE="U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset" SILENT=true
+[2019.03.26-15.13.32:187][ 96]LogSavePackage: Save=780.80ms
+[2019.03.26-15.13.32:187][ 96]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/M_SpaceAB2C575A41945730084513B2B7DAB5E7.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset'
+[2019.03.26-15.13.32:298][ 96]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset
+[2019.03.26-15.13.32:324][ 96]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.13.32:324][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.13.32:324][ 96]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.13.32:325][ 96]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.26-15.13.36:145][544]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.13.36:246][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-15.13.36:246][544]PIE: New page: PIE session: Main (26 Mar 2019 15:13:36)
+[2019.03.26-15.13.36:247][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2019.03.26-15.13.36:253][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005215s)
+[2019.03.26-15.13.36:254][544]LogAIModule: Creating AISystem for world Main
+[2019.03.26-15.13.36:254][544]LogPlayLevel: PIE: World Init took: (0.002196s)
+[2019.03.26-15.13.36:255][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.007834s)
+[2019.03.26-15.13.36:273][544]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.26-15.13.36:289][544]LogInit: FAudioDevice initialized.
+[2019.03.26-15.13.36:322][544]LogLoad: Game class is 'BP_GameMode_C'
+[2019.03.26-15.13.36:323][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.03.26-15.13.36
+[2019.03.26-15.13.36:324][544]LogWorld: Bringing up level for play took: 0.000672
+[2019.03.26-15.13.36:324][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.368
+[2019.03.26-15.14.18:764][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.14.24:425][304]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.24:436][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.26-15.14.24:449][304]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.26-15.14.24:449][304]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.26-15.14.24:462][304]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.24:964][364]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.26-15.14.24:964][364]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.26-15.14.25:124][383]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.14.25:165][388]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.14.25:298][404]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.14.25:331][408]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.14.25:460][423]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.14.25:460][423]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.14.25:581][438]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.14.25:598][440]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.14.25:699][452]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.14.25:866][472]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.14.25:983][486]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.14.26:023][491]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.14.26:256][519]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.14.26:315][526]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.26-15.14.26:398][536]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.14.26:549][554]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.14.26:711][573]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.14.26:711][573]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.14.26:711][573]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.14.26:711][573]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.26-15.14.28:255][758]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.28:272][760]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.14.28:272][760]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.14.28:334][767]LogMaterialEditor: Saving and Compiling material M_Space
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.14.28:939][767]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.14.28:950][767]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.28:984][767]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.14.28:990][767]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.29:004][767]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.29:025][767]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Space, compiling. 
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.14.30:427][767]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.14.30:429][767]TextureStreamingBuild: Display: Compiling optional shaders took 1.409 seconds.
+[2019.03.26-15.14.32:098][767]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.14.32:129][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Space" FILE="U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset" SILENT=true
+[2019.03.26-15.14.33:077][767]LogSavePackage: Save=862.72ms
+[2019.03.26-15.14.33:077][767]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/M_Space43E7F94049E370F3595A34A2997F3752.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset'
+[2019.03.26-15.14.33:166][767]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset
+[2019.03.26-15.14.33:183][767]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.14.33:183][767]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.14.33:183][767]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.14.33:183][767]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.26-15.14.38:231][364]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.14.38:301][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-15.14.38:301][364]PIE: New page: PIE session: Main (26 Mar 2019 15:14:38)
+[2019.03.26-15.14.38:301][364]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2019.03.26-15.14.38:305][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003146s)
+[2019.03.26-15.14.38:305][364]LogAIModule: Creating AISystem for world Main
+[2019.03.26-15.14.38:305][364]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2019.03.26-15.14.38:306][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004156s)
+[2019.03.26-15.14.38:322][364]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.26-15.14.38:337][364]LogInit: FAudioDevice initialized.
+[2019.03.26-15.14.38:366][364]LogLoad: Game class is 'BP_GameMode_C'
+[2019.03.26-15.14.38:368][364]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.03.26-15.14.38
+[2019.03.26-15.14.38:368][364]LogWorld: Bringing up level for play took: 0.000586
+[2019.03.26-15.14.38:369][364]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.414
+[2019.03.26-15.14.48:116][526]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.48:128][526]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.14.48:128][526]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.14.48:130][526]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.26-15.14.48:156][526]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.48:298][543]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.26-15.14.48:306][544]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.26-15.14.48:457][562]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.14.48:507][568]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.14.48:622][582]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.14.48:664][587]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.14.48:774][600]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.14.48:781][601]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.14.48:899][615]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.14.48:905][616]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.14.49:024][630]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.14.49:165][647]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.14.49:297][663]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.14.49:314][665]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.14.49:520][689]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.14.49:577][696]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.14.49:640][700]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.14.49:737][712]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.26-15.14.49:770][716]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.26-15.14.49:887][730]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.14.49:895][731]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-15.14.50:020][746]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.26-15.14.50:020][746]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.26-15.14.50:138][760]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.26-15.14.50:279][777]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.26-15.14.50:412][793]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-15.14.50:429][795]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.26-15.14.50:715][829]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.26-15.14.50:748][833]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.26-15.14.50:867][847]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.14.50:983][861]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-15.14.51:153][881]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.14.51:153][881]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.14.51:153][881]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.14.51:153][881]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.26-15.15.12:242][408]LogMaterialEditor: Saving and Compiling material M_Space
+[2019.03.26-15.15.12:805][408]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.15.12:833][408]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-15.15.12:833][408]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.26-15.15.12:841][408]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.15.12:855][408]LogMaterial: Missing cached shader map for material M_Space, compiling. 
+[2019.03.26-15.15.12:876][408]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Space, compiling. 
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.26-15.15.14:572][408]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.26-15.15.14:573][408]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.26-15.15.14:573][408]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.26-15.15.14:573][408]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.26-15.15.14:574][408]TextureStreamingBuild: Display: Compiling optional shaders took 1.703 seconds.
+[2019.03.26-15.15.16:209][408]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.26-15.15.16:241][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Space" FILE="U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset" SILENT=true
+[2019.03.26-15.15.17:255][408]LogSavePackage: Save=933.30ms
+[2019.03.26-15.15.17:255][408]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/M_Space326377D84A042BC18472C489FF3D26B7.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset'
+[2019.03.26-15.15.17:351][408]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Content/Materials/M_Space.uasset
+[2019.03.26-15.15.17:376][408]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.03.26-15.15.17:376][408]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.03.26-15.15.17:376][408]MaterialEditorStats: Vertex shader: 35 instructions
+[2019.03.26-15.15.17:376][408]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.26-15.15.23:703][127]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.15.23:780][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-15.15.23:781][127]PIE: New page: PIE session: Main (26 Mar 2019 15:15:23)
+[2019.03.26-15.15.23:781][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2019.03.26-15.15.23:785][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003724s)
+[2019.03.26-15.15.23:786][127]LogAIModule: Creating AISystem for world Main
+[2019.03.26-15.15.23:786][127]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2019.03.26-15.15.23:786][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005116s)
+[2019.03.26-15.15.23:812][127]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.26-15.15.23:828][127]LogInit: FAudioDevice initialized.
+[2019.03.26-15.15.23:863][127]LogLoad: Game class is 'BP_GameMode_C'
+[2019.03.26-15.15.23:864][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.03.26-15.15.23
+[2019.03.26-15.15.23:865][127]LogWorld: Bringing up level for play took: 0.000585
+[2019.03.26-15.15.23:865][127]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.087
+[2019.03.26-15.17.02:164][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.17.34:372][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.17.34:899][303]LogSlate: Took 0.001502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.26-15.18.18:110][130]LogSlate: Window 'Select Path' being destroyed
+[2019.03.26-15.18.18:479][130]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2019.03.26-15.18.18:695][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c78f989418, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.26-15.18.18:696][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c78f989410, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.26-15.18.19:123][131]LogRenderer: Reallocating scene render targets to support 1208x1020 Format 10 NumSamples 1 (Frame:1).
+[2019.03.26-15.19.20:274][140]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c780fa5fb0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.19.58:698][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c780fa5fb0, Size=4
+[2019.03.26-15.19.58:698][687]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c75f3996c8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_32:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.19.58:700][687]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c75f39a058, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.20.09:937][  7]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c75f39a058, Size=4
+[2019.03.26-15.20.09:937][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a0bd1e40, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_34:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.20.09:939][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a0bd0520, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.20.15:805][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a0bd0520, Size=4
+[2019.03.26-15.20.15:805][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a0ce4648, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_36:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.20.15:807][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a0ce63d8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.20.47:406][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.26-15.20.48:905][705]LogSavePackage: Save=1368.94ms
+[2019.03.26-15.20.48:905][705]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/Main_Auto1689C752944F67893ACE8CFA59AB5361C.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2019.03.26-15.20.48:941][705]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Maps/Main_Auto1.umap
+[2019.03.26-15.20.48:977][705]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 1.605
+[2019.03.26-15.20.48:977][705]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.605
+[2019.03.26-15.20.48:991][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemies/BP_EnemySpawner] ([1] browsable assets)...
+[2019.03.26-15.20.48:991][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemies/BP_EnemySpawner]
+[2019.03.26-15.20.49:642][705]LogSavePackage: Save=614.37ms
+[2019.03.26-15.20.49:642][705]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/BP_EnemySpawner_Auto136CD10C541877CE8C9B700BE33A05120.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Blueprints/BP_Enemies/BP_EnemySpawner_Auto1.uasset'
+[2019.03.26-15.20.49:671][705]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Blueprints/BP_Enemies/BP_EnemySpawner_Auto1.uasset
+[2019.03.26-15.20.49:672][705]LogFileHelpers: Auto-saving content packages took 0.693
+[2019.03.26-15.23.22:377][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a0ce63d8, Size=4
+[2019.03.26-15.23.22:378][457]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c780fa43a0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_38:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.23.22:379][457]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c780fa48f0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.23.58:602][216]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cc628, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.05:323][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cc628, Size=4
+[2019.03.26-15.24.05:323][ 13]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cc628, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_42:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.05:324][ 13]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cd118, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.06:687][170]LogSlate: Took 0.001988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.26-15.24.09:183][469]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cd118, Size=4
+[2019.03.26-15.24.09:183][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cd118, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_44:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.09:184][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cda20, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.10:970][681]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cda20, Size=4
+[2019.03.26-15.24.10:970][681]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cda20, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_46:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.10:971][681]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51ceeb0, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.17:029][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51ceeb0, Size=4
+[2019.03.26-15.24.17:029][405]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51ceeb0, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_48:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.17:030][405]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cd938, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.20:855][862]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cd938, Size=4
+[2019.03.26-15.24.20:855][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cd938, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_50:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.20:855][862]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cd8b8, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.25:724][443]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cd8b8, Size=4
+[2019.03.26-15.24.25:724][443]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cd8b8, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_52:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.25:725][443]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51ce230, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.30:859][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51ce230, Size=4
+[2019.03.26-15.24.30:860][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51ce230, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_54:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.30:860][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cf270, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.33:511][372]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cf270, Size=4
+[2019.03.26-15.24.33:511][372]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cf270, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_56:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.33:512][372]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51ce760, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.34:354][471]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51ce760, Size=4
+[2019.03.26-15.24.34:354][471]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51ce760, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_58:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.34:355][471]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cec18, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.38:888][ 12]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cec18, Size=4
+[2019.03.26-15.24.38:888][ 12]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cec18, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_60:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.38:889][ 12]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cceb8, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.47:167][  3]BlueprintLog: New page: Compile BP_GameMode
+[2019.03.26-15.24.47:171][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c780fa48f0, Size=4
+[2019.03.26-15.24.47:171][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cc7d8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_65:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.24.47:171][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cceb8, Size=4
+[2019.03.26-15.24.47:171][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cceb8, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_66:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.47:451][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c760f2e2b0, Size=8
+[2019.03.26-15.24.47:451][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51cf220, Size=8, Default__BP_GameMode_C Function /Engine/Transient.REINST_BP_GameMode_C_71:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.47:454][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a51ce290, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cceb8, Size=4
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cec18, Size=4
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51ce760, Size=4
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cf270, Size=4
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51ce230, Size=4
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cd8b8, Size=4
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cd938, Size=4
+[2019.03.26-15.24.47:613][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51ceeb0, Size=4
+[2019.03.26-15.24.47:614][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cda20, Size=4
+[2019.03.26-15.24.47:614][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cd118, Size=4
+[2019.03.26-15.24.47:614][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cc628, Size=4
+[2019.03.26-15.24.47:614][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cc7d8, Size=4
+[2019.03.26-15.27.40:175][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a80eb310, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.27.49:587][512]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a80eb310, Size=4
+[2019.03.26-15.27.49:587][512]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a6ea96f0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_75:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.27.49:590][512]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a6eab7e8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.28.41:834][891]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a6eab7e8, Size=4
+[2019.03.26-15.28.41:834][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c789eda430, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_77:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.28.41:836][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c789eda2f0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.28.51:871][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c789eda2f0, Size=4
+[2019.03.26-15.28.51:871][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a856bbe0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_79:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.28.51:873][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a856bdd8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.34.53:315][753]LogHttp: Warning: 000001C791BEB280: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9C5143BA-4693-8E1A-81F1-0F8F6FB5A706%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=647abf70449964f3568893bbcc323827%7C%7C9392becc-d069-4f3a-a3db-9f8532504095&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.03.26-15.34.53:316][753]LogHttp: Warning: 000001C791BEB280 Response Header Server: awselb/2.0
+[2019.03.26-15.34.53:316][753]LogHttp: Warning: 000001C791BEB280 Response Header Date: Tue, 26 Mar 2019 15:34:53 GMT
+[2019.03.26-15.34.53:316][753]LogHttp: Warning: 000001C791BEB280 Response Header Content-Type: text/html
+[2019.03.26-15.34.53:316][753]LogHttp: Warning: 000001C791BEB280 Response Header Content-Length: 138
+[2019.03.26-15.34.53:316][753]LogHttp: Warning: 000001C791BEB280 Response Header Connection: keep-alive
+[2019.03.26-15.36.01:830][902]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.26-15.36.02:393][902]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7b077db40, Size=432, Default__BP_Enemy_2_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.36.02:395][902]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7b077db40, Size=432
+[2019.03.26-15.36.02:395][902]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7b077db40, Size=432, Default__BP_Enemy_2_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.36.02:395][902]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7b077d0c0, Size=432, Default__BP_Enemy_2_C Function /Game/Blueprints/BP_Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2019.03.26-15.36.02:415][902]LogTexture: Display: Building textures: badship3 (AutoDXT, 32X32)
+[2019.03.26-15.36.08:681][650]BlueprintLog: New page: Compile BP_EnemySpawner
+[2019.03.26-15.36.08:690][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a856bdd8, Size=4
+[2019.03.26-15.36.08:690][650]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c7a6eaa0d8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_82:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.36.08:701][650]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c772ede780, Size=208, Default__BP_EnemySpawner_C Function /Game/Blueprints/BP_Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2019.03.26-15.36.08:929][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51cf220, Size=8
+[2019.03.26-15.36.08:930][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7b077db40, Size=432
+[2019.03.26-15.36.08:930][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a6eaa0d8, Size=4
+[2019.03.26-15.36.15:019][128]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-15.36.15:105][128]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.26-15.36.15:227][128]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2019.03.26-15.36.15:229][128]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c7a51ce290, Size=8
+[2019.03.26-15.36.15:229][128]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c775bbf7e0, Size=8, Default__BP_GameMode_C Function /Engine/Transient.REINST_BP_GameMode_C_96:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.36.15:229][128]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c775bbec58, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.03.26-15.36.15:377][128]LogPlayLevel: PlayLevel: Blueprint regeneration took 272 ms (1 blueprints)
+[2019.03.26-15.36.15:377][128]PIE: New page: PIE session: Main (26 Mar 2019 15:36:15)
+[2019.03.26-15.36.15:377][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2019.03.26-15.36.15:380][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002227s)
+[2019.03.26-15.36.15:380][128]LogAIModule: Creating AISystem for world Main
+[2019.03.26-15.36.15:380][128]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2019.03.26-15.36.15:380][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002919s)
+[2019.03.26-15.36.15:403][128]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.26-15.36.15:419][128]LogInit: FAudioDevice initialized.
+[2019.03.26-15.36.15:465][128]LogLoad: Game class is 'BP_GameMode_C'
+[2019.03.26-15.36.15:471][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.03.26-15.36.15
+[2019.03.26-15.36.15:476][128]LogWorld: Bringing up level for play took: 0.007791
+[2019.03.26-15.36.15:479][128]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.423
+[2019.03.26-15.36.56:671][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-15.37.24:968][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Maps/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.26-15.37.26:629][410]LogSavePackage: Save=1550.53ms
+[2019.03.26-15.37.26:629][410]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/Main_Auto25E55FBE146CEDC5559C00E92DC878260.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2019.03.26-15.37.26:690][410]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Maps/Main_Auto2.umap
+[2019.03.26-15.37.26:731][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 1.795
+[2019.03.26-15.37.26:731][410]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.795
+[2019.03.26-15.37.26:751][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2019.03.26-15.37.26:751][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2019.03.26-15.37.26:751][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.26-15.37.27:980][410]LogSavePackage: Save=1080.63ms
+[2019.03.26-15.37.27:980][410]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/BP_GameMode_Auto238CCCE1746907A3F38AF278266FEEC75.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto2.uasset'
+[2019.03.26-15.37.28:036][410]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto2.uasset
+[2019.03.26-15.37.28:054][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemies/BP_EnemySpawner] ([1] browsable assets)...
+[2019.03.26-15.37.28:054][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemies/BP_EnemySpawner]
+[2019.03.26-15.37.30:192][410]LogSavePackage: Save=2075.49ms
+[2019.03.26-15.37.30:192][410]LogSavePackage: Moving 'U:/Unreal Galaga/ScriptingLabs/Saved/BP_EnemySpawner_Auto2F7EBD10543E7BDFBF6EC34A39D60E795.tmp' to 'U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Blueprints/BP_Enemies/BP_EnemySpawner_Auto2.uasset'
+[2019.03.26-15.37.30:215][410]LogSavePackage: Display: Finished SavePackage U:/Unreal Galaga/ScriptingLabs/Saved/Autosaves/Game/Blueprints/BP_Enemies/BP_EnemySpawner_Auto2.uasset
+[2019.03.26-15.37.30:215][410]LogFileHelpers: Auto-saving content packages took 3.478
+[2019.03.26-15.37.56:305][529]LogUObjectBase: Warning: Object is not registered
+[2019.03.26-15.37.57:055][529]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.751 s
+[2019.03.26-15.37.57:055][529]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: 
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: Stack: 
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000006DB706 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000000043AE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000000044ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000F0793DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000F7E6B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000EBFFC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000EBE877AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000EBE8AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000EBFC6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000FB126057 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000FB12BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000FB35C253 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000FB180475 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000FB158360 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000FB14B197 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000001AEAE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000001AEA1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000001AEB052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000001AE9D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000003CE2B85D USER32.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000003CE2B1EF USER32.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000001AEB1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000DF255475 UE4Editor.exe!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000DF266BD0 UE4Editor.exe!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000DF266C4A UE4Editor.exe!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000DF274177 UE4Editor.exe!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x00000000DF275B87 UE4Editor.exe!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000003CD81FE4 KERNEL32.DLL!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: [Callstack] 0x000000003E46CB31 ntdll.dll!UnknownFunction []
+[2019.03.26-15.37.57:056][529]LogOutputDevice: Error: 
+[2019.03.26-15.37.57:080][529]LogStats:                SubmitErrorReport -  0.000 s
